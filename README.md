@@ -4,4 +4,4 @@ Repozytorium przechowuje dokumentację projektu `tidysq` w języku polskim, pows
 
 Repozytorium pakietu `tidysq`:
 
-[](github.com/BioGenies/tidysq)
+[BioGenies/tidysq](https://github.com/BioGenies/tidysq)
